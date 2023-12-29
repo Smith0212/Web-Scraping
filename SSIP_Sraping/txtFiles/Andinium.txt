@@ -1,0 +1,123 @@
+Andinium
+
+
+
+see Subdivision
+
+Viola is a genus of flowering plants in the violet family Violaceae. It is the largest genus in the family, containing over 680 species. Most species are found in the temperate Northern Hemisphere; however, some are also found in widely divergent areas such as Hawaii, Australasia, and the Andes.
+
+Some Viola species are perennial plants, some are annual plants, and a few are small shrubs. Many species, varieties and cultivars are grown in gardens for their ornamental flowers. In horticulture, the term pansy is normally used for those multi-colored, large-flowered cultivars which are raised annually or biennially from seed and used extensively in bedding. The terms viola and violet are normally reserved for small-flowered annuals or perennials, including the wild species.
+
+Annual or perennial caulescent or acaulescent (with or without a visible plant stem above the ground) herbs, shrubs or very rarely treelets. In acaulescent taxa the foliage and flowers appear to rise from the ground. The remainder have short stems with foliage and flowers produced in the axils of the leaves (axillary).[2]
+
+Viola typically have heart-shaped or reniform (kidney-shaped), scalloped leaves, though a number have linear or palmate leaves.[2] The simple leaves of plants with either habit are arranged alternately; the acaulescent species produce basal rosettes. Plants always have leaves with stipules that are often leaf-like.
+
+The flowers of the vast majority of the species are strongly zygomorphic with bilateral symmetry and solitary, but occasionally form cymes. The flowers are formed from five petals; four are upswept or fan-shaped with two per side, and there is one, broad, lobed lower petal pointing downward. This petal may be slightly or much shorter than the others and is weakly differentiated. The shape of the petals and placement defines many species, for example, some species have a "spur" on the end of each petal while most have a spur on the lower petal. The spur may vary from scarcely exserted (projecting) to very long, such as in Viola rostrata.[2]
+
+Solitary flowers end long stalks with a pair of bracteoles. The flowers have five sepals that persist after blooming, and in some species the sepals enlarge after blooming. The corolla ranges from white to yellow, orange or various shades of blue and violet or multicolored, often blue and yellow, with or without a yellow throat.[2]
+
+The flowers have five free stamens with short free filaments that are oppressed against the ovary, with a dorsal connective appendage that is large, entire and oblong to ovate. Only the lower two stamens are calcarate (possessing nectary spurs that are inserted on the lowest petal into the spur or a pouch). The styles are filiform (threadlike) or clavate (clubshaped), thickened at their tip, being globose to rostellate (beaked). The stigmas are head-like, narrowed or often beaked. The flowers have a superior ovary with one cell, which has three placentae, containing many ovules.[2]
+
+After flowering, fruit capsules are produced that are thick walled, with few to many seeds per carpel, and dehisce (split open) by way of three valves.[3] On drying, the capsules may eject seeds with considerable force to distances of several meters.[4] The nutlike seeds, which are obovoid to globose, are typically arillate (with a specialized outgrowth) and have straight embryos, flat cotyledons, and soft fleshy endosperm that is oily.[5][2]
+
+One characteristic of some Viola is the elusive scent of their flowers; along with terpenes, a major component of the scent is a ketone compound called ionone, which temporarily desensitizes the receptors of the nose, thus preventing any further scent being detected from the flower until the nerves recover.[6]
+
+First formally described by Carl Linnaeus in 1753[7] with 19 species, the genus Viola bears his botanical authority, L.[8] When Jussieu established the hierarchical system of families (1789), he placed Viola in the Cisti (rock roses),[9] though by 1811 he suggested Viola be separated from these.[10] However, in 1802 Batsch had already established a separate family, which he called Violariae based on Viola as the type genus, with seven other genera.[11][12] Although Violariae continued to be used by some authors, such as Bentham and Hooker in 1862 (as Violarieae),[13] most authors adopted the alternative name Violaceae, first proposed by de Lamarck and de Candolle in 1805,[14] and Gingins (1823)[15] and Saint-Hilaire (1824).[16]However de Candolle also used Violarieae in his 1824 Prodromus.[17]
+
+Viola is one of about 25 genera and about 600 species in the large eudicot family Violaceae, divided into subfamilies and tribes. While most genera are monotypic, Viola is a very large genus, variously circumscribed as having between 500 and 600 species. Historically it was placed in subfamily Violoideae, tribe Violeae. But these divisions have been shown to be artificial and not monophyletic. Molecular phylogenetic studies show that Viola occurs in Clade I of the family, as Viola, Schweiggeria, Noisettia and Allexis, in which Schweiggeria and Noisettia are monotypic and form a sister group to Viola.[18][19][20]
+
+Viola is a large genus that has traditionally been treated in sections.[19] One of these was that of Gingins (1823),[15] based on stigma morphology, with five sections (Nomimium, Dischidium, Chamaemelanium, Melanium, Leptidium).[21] The extensive taxonomic studies of Wilhelm Becker, culminating in his 1925 conspectus, resulted in 14 sections and many infrasectional groups. The largest and most diverse, being section Viola, with 17 subsections. In addition to subsections, series were also described.[22] Alternatively, some authors have preferred to subdivide the genus into subgenera. Subsequent treatments were by Gershoy (1934)[23] and Clausen (1964),[24] using subsections and series. These were all based on morphological characteristics. Subsequent studies using molecular phylogenetic methods, such as that of Ballard et al. (1998) have shown that many of these traditional divisions are not monophyletic, the problem being related to a high degree of hybridization. In particular section Nomimium was dismembered into several new sections and transferring part of it to section Viola. Section Viola s. lat. is represented by four sections, Viola sensu stricto, Plagiostigma s. str., Nosphinium sensu lato. and the V. spathulata group. In that analysis, the S American sections appear to be the basal groups, starting with Rubellium, then Leptidium. However, the exact phylogenetic relationships remain unresolved, as a consequence many different taxonomic nomenclatures are in use, including groupings referred to as Grex.[20] Marcussen et al. place the five S American sections, Andinium, Leptidium, Tridens, Rubellium and Chilenium at the base of the phylogenetic tree, in that order. These are followed by the single Australian section, Erpetion, as sister group to Chilenium, the northern hemisphere sections and finally the single African section, V. abyssinica. These sections are morphologically, chromosomally, and geographically distinct.[25][26][27]
+
+Seventeen sections are recognized, listed alphabetically (approximate no. species);[28][25][29]
+
+The genus includes dog violets, a group of scentless species which are the most common Viola in many areas, sweet violet (Viola odorata) (named from its sweet scent), and many other species whose common name includes the word "violet". But not other "violets": Neither Streptocarpus sect. Saintpaulia ("African violets", Gesneriaceae) nor Erythronium dens-canis ("dogtooth violets", Liliaceae) are related to Viola.
+
+With about 113 species, the South American section Andinium is the largest of the Viola sections. It is one of the four sections distributed primarily or exclusively in South America, and the basal group of Viola. New species continue to be identified.[39] Species include;[40]
+
+Chamaemelanium was one of a number of sections originally classified on the basis of the shape of the stigma, in this case one that was facial shaped, had an absent beak and had lateral beards. But this section has subsequently been shown to be paraphyletic, requiring revision. It occurs at high altitudes (above 600 m) in both N America and northeast Asia, including Siberia and Korea, and the species are perennial, caulous and herbaceous.[42] With about 61 species including;
+
+A small S American section with about 8 species, as sister group to Erpetion, including;
+
+Section Danxiaviola
+
+Section Delphiniopsis
+
+Section Erpetion[43]
+
+Section Leptidium
+
+Section Melanium (pansies)[19][44]
+
+Section Nosphinium
+
+Section A (V. abyssinica group)
+
+Section B (V. spathulata group)
+
+Section Plagiostigma
+
+Section Rubellium
+
+Section Sclerosium
+
+Section Tridens
+
+Section Viola (violets)
+
+Section Xylinosium
+
+One fossil seed of †Viola rimosa has been extracted from borehole samples of the Middle Miocene fresh water deposits in Nowy Sacz Basin, West Carpathians, Poland.[47] The genus is thought to have arisen in S America, most likely the Andes.[19][20]
+
+Habitat fragmentation has been shown to have minimal effect on the genetic diversity and gene flow of the North American woodland violet Viola pubescens.[48] This may be partially attributed to the ability of Viola pubescens to continue to persist within a largely agricultural matrix.[49] This trend of unexpectedly high genetic diversity is also observed in Viola palmensis, a Canary Island endemic known only from a 15 square kilometer range on La palma island.[50] High levels of genetic diversity within these species indicate that these plants are outcrossing, even though many violet species can produce many clonal offspring throughout the year via cleistogamous flowers. Plants that produce copious amounts of clonal seeds from cleistogamous flowers often experience increased levels of inbreeding.[51] These reportedly high rates of outcrossing and genetic diversity indicate that these violets are strong competitors for pollinators during the early spring when they are in bloom and that those pollinators can travel considerable distances between often fragmented populations.
+
+The worldwide northern temperate distribution of the genus distinguishes it from the remaining largely tropical Violaceae genera, restricted to either Old World or New World species, while in the tropics the distribution is primarily in high mountainous areas.[2] Centres of diversity occur mainly in the northern hemisphere, in mountainous regions of eastern Asia, Melanesia, and southern Europe, but also occur in the Andes and the southern Patagonian cone of South America.[40] One of the highest species concentrations is in the former USSR.[21] Australia is home to a number of Viola species, including Viola hederacea, Viola betonicifolia and Viola banksii, first collected by Joseph Banks and Daniel Solander on the Cook voyage to Botany Bay.[19]
+
+Viola species are used as food plants by the larvae of some Lepidoptera species, including the giant leopard moth, large yellow underwing, lesser broad-bordered yellow underwing, high brown fritillary, small pearl-bordered fritillary, pearl-bordered fritillary, regal fritillary, cardinal, and Setaceous Hebrew character. The larvae of many fritilary butterfly species use violets as an obligate host plant, although these butterflies do not always ovaposit directly onto violets.[52] While the ecology of this genera is extremely diverse, violets are mainly pollinated by members within the orders Diptera and Hymenoptera.[53] Showy flowers are produced in early spring, and clonal cleistogamous flowers are produced from late spring until the end of the growing season under favorable conditions. Cleistogamy allows plants to produce offspring year round and have more chances for establishment.[54] This system is especially important in violets, as these plants are often weak competitors for pollination due to their small size.
+
+Many violet species exhibit two modes of seed dispersal. Once seed capsules have matured, seeds are dispelled around the plant through explosive dehiscence.[55] Viola pedata seeds have been reported being dispersed distances of up to 5 meters away from the parent plant.[55] Often, seeds are then further dispersed by ants through a process called myrmecochory.[56] Violets whose seeds are dispersed this way have specialized structures on the exterior of the seeds called elaiosomes. This interaction allows violet seed to germinate and establish in a protected, stable environment.[55]
+
+Many violet seeds exhibit physiological dormancy and require some period of cold stratification to induce germination under ex situ conditions.[57] Rates of germination are often quite poor, especially when seeds are stored for extended periods of time.[58] In North American habitat restoration, native violets are in high demand due to their relationship with the aforementioned fritillary butterflies.[59]
+
+Violet species occupy a diverse array of habitats, from bogs (Viola lanceolata) to dry hill prairies (V. pedata) to woodland understories (V. labradorica). While many of these species are indicators of high quality habitat, some violets are capable of thriving in a human altered landscape. Two species of zinc violet (V. calaminaria and V. guestphalica) are capable of living in soils severely contaminated with heavy metals.[60] Many violets form relationships with arbuscular mycorrhizal fungi, and in the case of the zinc violets, this allows them to tolerate such highly contaminated soils.
+
+Flowering is often profuse, and may last for much of the spring and summer. Viola are most often spring-blooming with chasmogamous flowers that have well developed petals pollinated by insects. Many species also produce self-pollinated cleistogamous flowers in summer and autumn that do not open and lack petals.[61] In some species the showy chasmogamous flowers are infertile (e.g.,Viola sororia).[a][62]
+
+The international registration authority for the genus is the American Violet Society, where growers register new Viola cultivars.[63] A coding system is used for cultivar description of ten horticultural divisions, such as Violet (Vt) and Violetta (Vtta).[64] Examples include Viola 'Little David' (Vtta)[65] and Viola 'Königin Charlotte' (Vt).[66]
+
+In this system violets (Vt) are defined as "stoloniferous perennials with small, highly fragrant, self-coloured purple, blue or white flowers in late winter and early spring".[64]
+
+Many species, varieties and cultivars are grown in gardens for their ornamental flowers. In horticulture the term pansy is normally used for those multi-colored, large-flowered cultivars which are raised annually or biennially from seed and used extensively in bedding. The terms viola and violet are normally reserved for small-flowered annuals or perennials, including the wild species.[63][64]
+
+Cultivars of Viola cornuta, Viola cucullata, and Viola odorata, are commonly grown from seed. Other species often grown include Viola labradorica, Viola pedata, and Viola rotundifolia.[67]
+
+The modern garden pansy (V. × wittrockiana) is a plant of complex hybrid origin involving at least three species, V. tricolor (wild pansy or heartsease), V. altaica, and V. lutea (mountain pansy).[68] The hybrid horned pansy (V. × williamsii) originates from hybridization involving garden pansy and Viola cornuta.[69]
+
+In 2005 in the United States, Viola cultivars (including pansies) were one of the top three bedding plant crops and 111 million dollars worth of flats of Viola were produced for the bedding flower market. Pansies and violas used for bedding are generally raised from seed, and F1 hybrid seed strains have been developed which produce compact plants of reasonably consistent flower coloring and appearance. Bedding plants are usually discarded after one growing season.[70]
+
+There are hundreds of perennial viola and violetta cultivars; many of these do not breed true from seed and therefore have to be propagated from cuttings. Violettas can be distinguished from violas by the lack of ray markings on their petals.[63] The following cultivars, of mixed or uncertain parentage, have gained the Royal Horticultural Society's Award of Garden Merit:[71]
+
+Other popular examples include:[79]
+
+When newly opened, Viola flowers may be used to decorate salads or in stuffings for poultry or fish. Soufflés, cream, and similar desserts can be flavoured with essence of Viola flowers. The young leaves are edible raw or cooked as a mild-tasting leaf vegetable. The flowers and leaves of the cultivar 'Rebecca', one of the Violetta violets, have a distinct vanilla flavor with hints of wintergreen. The pungent perfume of some varieties of V. odorata adds inimitable sweetness to desserts, fruit salads, and teas while the mild pea flavor of V. tricolor combines equally well with sweet or savory foods, like grilled meats and steamed vegetables. The heart-shaped leaves of V. odorata provide a free source of greens throughout a long growing season,[80] while the petals are used for fragrant flavoring in milk puddings and ice cream or in salads and as garnishes.[81][82]
+
+A candied violet or crystallized violet is a flower, usually of Viola odorata, preserved by a coating of egg white and crystallised sugar. Alternatively, hot syrup is poured over the fresh flower (or the flower is immersed in the syrup) and stirred until the sugar recrystallizes and has dried. This method is still used for rose petals and was applied to orange flowers in the past (when almonds or orange peel are treated this way they are called pralines). Candied violets are still made commercially in Toulouse, France, where they are known as violettes de Toulouse. They are used as decorating cakes or trifles or included in aromatic desserts.[81][82]
+
+The French are also known for their violet syrup, most commonly made from an extract of violets. In the United States, this French violet syrup is used to make violet scones and marshmallows. Viola essence flavours the liqueurs Creme Yvette, Creme de Violette, and Parfait d'Amour. It is also used in confectionery, such as Parma Violets and C. Howard's Violet candies.
+
+Many Viola species contain antioxidants called anthocyanins. Fourteen anthocyanins from V. yedoensis and V. prionantha have been identified. Some anthocyanins show strong antioxidant activities.[83] Most violas tested and many other plants of the family Violaceae contain cyclotides,[84][85][86] which have a diverse range of in vitro biological activities when isolated from the plant, including uterotonic, anti-HIV, antimicrobial, and insecticidal activities.[87] Viola canescens, a species from India, exhibited in vitro activity against Trypanosoma cruzi.[88]
+
+Viola has been evaluated in different clinical indications in human studies. A double blind clinical trial showed that the adjuvant use of Viola odorata syrup with short-acting β-agonists can improve the cough suppression in children with asthma.[89][90] In another study intranasal administration of Viola odorata extract oil showed to be effective in patients with insomnia.[90] Topical use of an herbal formulation containing Viola tricolor extract also showed promising effects in patients with mild-to-moderate atopic dermatitis.[91]
+
+Viola odorata is used as a source for scents in the perfume industry. Violet is known to have a 'flirty' scent as its fragrance comes and goes. Ionone is present in the flowers, which turns off the ability for humans to smell the fragrant compound for moments at a time.[92]
+
+Violet is the traditional birth flower for February in English tradition.[93]
+
+In the United States, the common blue violet Viola sororia is the state flower of Illinois,[94] Rhode Island,[95] New Jersey[96] and Wisconsin,[97][98] In Canada, the Viola cucullata is the provincial flower of New Brunswick adopted in 1936[99] In the United Kingdom, Viola riviniana is the county flower of Lincolnshire.[100]
+
+Violets became symbolically associated with love between women.[101][102] This connection originates from fragments of a poem by Sappho about a lost love, in which she describes her as "Close by my side you put around yourself [many wreaths] of violets and roses."[103] In another poem, Sappho describes her lost love as wearing "violet tiaras, braided rosebuds, dill and crocus twined around" her neck.[104] In 1926, one of the first plays to involve a lesbian relationship, La Prisonnière by Édouard Bourdet, used a bouquet of violets to signify lesbian love.[105][106]
+
+Violets, and badges depicting them,[107][108]
+were sold in fund-raising efforts in Australia and New Zealand on and around Violet Day[109] in commemoration of the lost soldiers of World War I.[110]
+
+
+

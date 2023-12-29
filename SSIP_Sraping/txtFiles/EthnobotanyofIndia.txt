@@ -1,0 +1,118 @@
+Ethnobotany of India
+
+The medical ethnobotany of India is the study of Indian medicinal plants and their traditional uses. Plants have been used in the Indian subcontinent for treatment of disease and health maintenance for thousands of years, and remain important staples of health and folk medicine for millions. Indians today utilize plants for both primary medical care (principally in Rural and undeserved areas) and as supplementary treatment alongside modern medical science. It is estimated that 70% of rural Indians use traditional plant based remedies for primary healthcare needs.[1][2] This reliance of plants for medicine is consistent with trends widely observed in the developing world, where between 65% and 80% of people use medicinal plant remedies.[3][4]
+
+Herbal medicine in India is largely guided by folk medicine, both in codified cultural practices shared widely (Ayurveda,[5] Siddha, Unani), and highly localized practices unique to individual tribes or tribal groups (Adivasi). Between 3,000[6] and 5,000[7] species of medicinal plants grow in India with roughly 1,000 threatened with extinction.[7] Of these, more than 2,400 plant species have been documented for medicinal use.[2][8][9]
+
+Ayurveda practitioners believe certain plants can restore balance distorted by disease.[5] The vast majority (90%) of Ayurvedic remedies are plant based.[11]
+
+Although firmly rooted in folk medicine, Ayurvedic herbal remedies have been evaluated by laboratory and clinical studies to evaluate treatment efficacy. Some plants used in Ayurveda have biologically active secondary metabolites with potential value.[12] Other remedies do not have established therapeutic value, and some may have deleterious health effects.[12]
+
+At least 700 plants have been identified from Ayurvedic medicinal systems. Although more than 12,000 Sanskrit plant names have been identified in classical Ayurvedic texts (including samhitas and nighantus) there is great difficulty in establishing exact botanical identities of many referenced species.[13] Plants are prepared according to tradition, utilizing specific plant parts as indicated in historical texts.[11][5] Ayurvedic belief stipulates that certain plant parts (e.g. leaf, flower, root) have specific properties key to treating disease.[14]
+
+Ayurvedic medicine is guided by a complex set of cultural, religious, and textual practices. Despite diversity in its application and practice, it operates as a codified system of folk medicine with a coherent methodology. Broadly speaking, Ayurvedic practitioners evaluate plants for medical use by examining 5 purported physical and energetic properties:
+
+Ayurvedic practitioners process plants with the goal of enhancing absorption. Shelf life and ease of production are additional concerns in herbal preparations. Some common herbal preparations include herbal paste (kalka), powder (curna), decoction (kasaya), teas (phanta), jams (paka), medicated wines (arista), pills (vati), and herbal oils (taila).[5]
+
+Ayurvedic treatments are usually mixtures of multiple herbs (polyherbal formulations). Ayurvedic practitioners believe that certain herbs, when combined, have complementary effects which can enhance treatment efficacy; this concept is called synergism. The Ayurvedic text Sarangdhar Samhita (c. 1300 AD) emphasizes the importance of synergism.[14] One common Ayurvedic remedy (trikatu) is prepared by combining ginger, long pepper, and black pepper as an aid for digestion or gastric distress. Ayurvedic practitioners believe that such combinations can enhance absorption.[11] A 2014 review proposed several mechanisms that may be the basis for therapeutic herbal synergism.[15]
+
+Herbal preparations in Ayurveda can impact the absorption (or bioavailability) of pharmaceuticals. Because Ayurveda is often used by practitioners to supplement conventional modern medicine, the interactive effects of Ayurvedic treatments can medically significant. For instance, medicinal plant remedies can interfere with the cytochrome enzyme system (CYP), a network of liver enzymes extremely important in drug metabolism. Inhibiting or potentiating CYP enzymes is the most common adverse effect of herbal remedies on medication absorption.[16] Potentiation of CYP can cause medication activity to drop low beyond the point of therapeutic effect, while inhibition of the CYP system can cause medication levels to spike dangerously high.
+
+Some Ayurvedic medicinal plants (Silybum marianum, Cannabis spp.) are CYP3A4 inhibitors. A commonly used antifungal medication, ketoconazole, is processed by the CYP3A4 enzyme. Use of this ketoconazole with any CYP3A4 inhibitor is potentially dangerous and a cause for medical concern. There are countless other herb-pharmaceutical interactions with potentially serious effects.[5][16][15]
+
+Responsible Ayurvedic practitioners must take into account how herbal medications can interact with other drugs, or even other concurrent consumed herbals.[5]
+
+While some preparations may be of high quality, many herbal medicines and supplements are not subject to rigorous quality control. Herbal concoctions may contain little-to-nothing of the herb advertised,[17] or may even be contaminated with heavy metals or other toxic substances.[12] This is not an issue relegated to Ayurvedic practice, but is a global phenomenon, even in developed countries.[17][18][19]
+
+Recognizing the key importance of herbal medications to healthcare in the developing world, the World Health Organization (WHO) has proposed quality control mechanisms for marketed medicinal plant medicines, including Ayurveda. This includes DNA barcoding to ensure contents of herbal preparations match advertised/labelled species.[3] An important milestone was reached in 2019, when 65% of WHO member states had a documented registration system for herbal medicines, a significant improvement over the previous two decades.[4]
+
+In 2021, a systemic review into Ayurvedic treatments for sinusitis determined the necessity of further rigorous clinical studies before conclusions about safety and efficacy could be reached.[20] A major challenge in assessing Ayurvedic herbal medicines is substantial variation in quality between remedies. Multiple reviews on Ayurveda determined that standardization of quality and herbal contents is required for research. This includes research into herbal contents, therapeutic efficacy, chemical profiling of medicines, and identification of actual therapeutic modes of action (i.e., how the medicines actually work).[21]
+
+Another review found that Ayurvedic herbs could be the basis for research into neuroprotective compounds.[22]
+
+India is home to speakers of between 453[23] and 780[24][25] languages with many different cultures and subcultures present across 28 states and 8 union territories. This diversity is reflected in complex regional variation in the usage of herbal medicines.[10] While Ayurveda and other elements of folk medicine are practiced nationally, the tribal peoples of India (Adivasi) have uses for medicinal plants unique to themselves or their geographic locale.
+
+At least 50 million people belong to Adivasi communities, constituting at least 427 tribal groups (with some much higher estimates).[26][7] Much regional variation in plant use can be attributed to the ethnobotany practiced by Adivasi in rural India. Local variations in climate, ecology, and culture determine the availability and use of medicinal plant species.[10]
+
+The Eastern Ghat Mountain range begins in the state of Odisha, traveling south through Andhra Pradesh and Telangana, terminating finally in Tamil Nadu. The Eastern Ghats, and the accompanying western portion of the central Deccan plateau, are characterized by a tropical savanna climate. Severe dry seasons allow for a landscape dominated by grasslands with sparse trees (savanna ecosystem) or tropical deciduous forests.
+
+These mountains have been home to many tribal peoples since ancient times. In 2017, over 200 tribes were reported in the regions of the Eastern Ghats and Deccan plateau. A summary of ethnobotanical surveys identified 1,800 species of medicinal plants occurring in these regions of India, with 782 species actually used.[27] Medicinal plants are used in codified indigenous healthcare practices, such as Ayurveda, as well as local practices unique to tribes or tribal groupings. Of the ethnic or tribal groups in this region, 54 are reported to utilize plants for their primary medical needs, though only 40 have been surveyed for exact plant species used.[27]
+
+The 782 medicinal plants used in this region belong to 132 families. Overwhelmingly, identified plants belonged to the legume, dogbane, orchid, nightshade, and coffee families. Legumes (Fabaceae), the largest single family, accounted for 67 species. The most prolific genera were Cassia (Fabaceae) and Solanum (Solanaceae), each containing 11 species. By plant habit, utilized plants were herbs (41%), trees (24%), shrubs (22%) and lianas/vines (13%).[27]
+
+75 species of plants used for medicine in the region are  unique to the Eastern Ghats.[27]
+
+Of 782 utilized plants, only 28 species were used by all assessed tribal communities. Plant species were most frequently utilized for issues relating to the stomach and skin disease, with 120 species being used as primary treatments in either of these problem categories.[27]
+
+Abrus precatorius was the medicinal plant most widely cited in ethnobotanical surveys of the region. Although parts of the plant are extremely toxic and hazardous when ingested, leaves of this species are utilized for treatment of bronchitis, eczema, hepatitis, skin disease, gynecological disease and in treatment of venomous snake bites. Aegle marmelos, or Bael, is a tree with religious significance utilized for treatment of gastrointestinal and skin disease. Although used throughout India as a treatment for jaundice, the plant creat (Hindi: kaalmegha) (Andrographis paniculata) is used in the Eastern Ghats as an anti-malarial.[27]
+
+Tribal communities in this region are noted for the reverence paid to trees in religious practice.
+
+The Western Ghat Mountain range begins in the southeastern corner of Gujarat, traversing the states of Maharashtra, Goa, Karnataka, and Kerala. The western portion of these mountains, and the accompanying coastal regions, receive among the highest annual rainfalls of any part of India.The Malabar coast (from Goa to the southernmost part of peninsular India) receives over 250 cm of rain annually. These areas are characterized by a tropical monsoon/tropical wet climate. Coastal areas and much of the mountain slopes contain tropical evergreen and moist deciduous forests, with rain forests in Kerala.[29]
+
+Because of the rain shadow effect, eastern slopes of the Western Ghats and the accompanying portions of the Deccan Plateau are very dry, receiving <40 cm a year. This dry area, affecting eastern Gujarat, Maharasthra, and Karnataka, is classified as semi-arid steppe climate. These areas are qualify as tropical thorny woodland and dry deciduous forest.[29]
+
+The Western Ghats region is a global biodiversity hotspot, with more than 1500 endemic plant species. Though only 5% of India's landmass, the region contains about a third of India's plant species. As many as 35% of plant species here are endemic.[30][31]
+
+Tribal agriculture has been practiced in the Western Ghats for 4000 years. Tribal communities are usually focused in mountain areas, though some live in lowlands not far from cities, with at least 40 indigenous groups identified.[32]  Ethnobotanical surveys have found 2100 medicinal plants growing in this region, with at least 1116 used locally.[7]
+
+At least 50 medicinal plants unique to the Western Ghats and west coast region are threatened with extinction.[7]
+
+A 2017 survey found 31 species of shrubs and herbaceous plants used for purported anti-malarial properties. These plants belong to 23 different families, the most important being the legume (4 species), mint (3 species), coffee (2 species) and nightshade (2 species) families.[33]
+
+104 plant species are used for treatment of fevers and malaria (inclusive of the 31 species specifically used for malaria).[33]
+
+Northeast India (officially North Eastern Region, NER) is a complex region of eight Indian states and 45 million people. The region borders five countries: Nepal, Bhutan, China (Tibetan Autonomous Region), Myanmar, and Bangladesh. Geographically, Northeast India is bounded on the north by Eastern Himalayan mountains, the east by the Purvanchal/Patkai mountain ranges, and the southwest by the Gangetic plain. The northernmost states of Sikkim and Aryunachal Pradesh are formed by Himalayan valleys. The rugged eastern states (Nagaland, Manipur, and Mizoram) are formed by the Patkai mountains and a series of steep hill ranges. Likewise, Meghalaya is a hilly state stretching across the northern border of Bangladesh. Assam is largely the river valley of the broad Bramaputra river.[29]
+
+Climatically, Northeast India is largely defined by a subtropical climate with massive annual rainfalls. The flat sweep of the Gangetic plain ending in the Himalayas ensures that monsoons are particularly intense; the state of Meghalaya receives more rain than anywhere else on earth (>1200 cm per year).[34]
+
+Northeast India is one of the most ethnically diverse regions in the world. These states contain 130 tribes with 300 distinct subtribes, over 200 ethnic groups, and 220 spoken languages. Many of India's tribal peoples are concentrated here, with the hilly states of Arunachal Pradesh, Meghalaya, Mizoram, and Nagaland being 90% Adivasi by population. The largest state by population, Assam contains 30 million people, of which a minority are Adivasi.[35][29]
+
+At least 4,000 plant species have been documented in Northeast India with others likely undiscovered. The region is among the most biodiverse in India, containing half of all Indian species diversity and more than 25% of Indian endemic plants.[35] 1,953 plants are used by tribal peoples of this region, accounting for 80% of all ethnomedicinal plants documented in India.[2][8][9]
+
+At least 37 members of the ginger family (Zingiberaceae) have been identified as medicinal plants in NER, 88% of which were found in Arunachal Pradesh.[2][8] A 2012 survey found the Dimasa tribe (Assam) used non-flowering plants like ferns and cycads. NER has over 80 species of Rhododendron,[35] with multiple documented ethnomedicinal uses.[2]
+
+Because NER is one of the most ethnically and botanically diverse places on the planet, broadly characterizing the utilization of medicinal plants here is difficult. Research into the indigenous use of plants in NER has been conducted since the 1970s. One of the most widely cited species in surveys, Ageratum conyzoides (flowers, leaves, roots and whole plant) is used for throat pain, helminth infections, arthritis, fever, malaria treatment, dysentery, and liver disease.[2] Studies have identified this plant as carcinogenic.[36] Mimosa pudica (sensitive plant) is used as treatment for skin infections, helminths, urological disease, toothaches and as a contraceptive. The rhizome of Acorus calamus (calamus, or Vacā in Sanskrit) is documented as a treatment for cough, cold, snake bite, asthma, rheumatic fever, and hemorrhoids.[2] Though calamus is used in NER folk medicine (and in Ayurveda[37]), this plant is considered extremely carcinogenic.[38] Andrographis paniculata has been cited for use in stomach pain, malaria, and jaundice. Another plant widely referenced in ethnobotanical surveys, Callicarpa arborea is used for skin disease, leukorrhea, and treating scorpion stings.[2]
+
+The Meithei Manipuri people produce herbal vapors for the treatment of 41 diseases, using both single plant species and multi-species concoctions. Rhododendron arboretum is used to treat diarrhea, dysentery, throat pain, headaches, and fish bones stuck in throat.[2]
+
+The Western Himalayas region consists of the states of Himachal Pradesh, Uttarakhand and the union territories of Jammu & Kashmir and Ladakh. The Central (Great) Himalayas are mostly within Nepal though a portion lie within Uttarkand. These states forms part of the foothills of the largest mountains on earth. Climatically, much of the region is defined by a polar or tundra type climate, but southern portions of Himachal Pradesh and Uttarakhand are humid subtropical. Vegetation includes alpine shrubs and meadows, subalpine conifer forests, Himalyan broadleaf dry forests, and subtropical deciduous and pine forests. A portion of dry grassland (the Bhabar) is found in lower Uttarakhand.[29][26] Predominant trees include chir pine, blue pine, deodar, fir, and juniper.
+
+There is substantial ethnic diversity in this region. At the broadest level, these Himalayan regions contain Indic, Tibetan-Burman, and Afghan-Persian speaking peoples.[39]
+
+In the Western Himalayas, Ladakh contains the nomadic mountain Changpas with agricultural Laddakhis, Dardi, and Balti peoples inhabiting valleys. Kashmir Valley (Jammu & Kashmir) and the Pirpanjal valley (Jammu & Kashmir, Himachal Pradesh) are inhabited by Kashmiris, Gujjars, and Bakkarwal peoples. The Central Himalayas (Uttarakhand) contain the agirucltural Paharis in valley regions and the Tibetan-speaking Bhotiya peoples in the mountains. The Paharis are a diverse group are also found in Kashmir.
+
+Between 4,000 and 5,000 plants are reported in the Western and Central Himalayas. Surveys have identified 1,338 medicinal plant species specifically from the state of Uttarakhand, 948 species from Jammu & Kashmir, and 643 species from Himachal Pradesh.[26]
+
+A review found 109 different families of medicinal plants in the former state of Jammu & Kashmir.[26]
+
+Plants in this region most frequently used in medicinal preparations include  Terminalia chebula, Terminlia bellirica, Emblica officinalis, Glycyrrhiza glabra (liquorice), Justicia adhatoda, Withania somnifera, and Cyperus rotundus.[40][39]
+
+The rhizome Curcuma domestica (turmeric) is used for cuts, burns, and scalds. Fruits of the Piper nigrum species (black pepper) are popularly used for colds and coughs. The fruits from Trachyspermum ammi (ajawain) and plants from the genus Ferula are commonly used to treat gastrointenstinal disorders and in some cases, whooping cough.[39]
+
+The Indo-Gangetic Region and central Indian region consists of the 13 states of Bihar, Chhattisgarh, Delhi, Gujarat, Haryana, Jharkhand, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, West Bengal, and Chandigarh. These are the most populous region of India, with a combined total of almost 900 million people. Geographically, the area is defined by Outer Himalays (Siwalik Mountains) to the north, the sprawling Indo-Gangetic plain in the middle, and the more rugged central India. Central India consists of hills, a portion of the Deccan plateau, and the Aravalli and Satpura mountains. Flat coastal predominates in most of West Bengal. The Western border with Pakistan features the Thar desert, more than half of which lies within Rajasthan.[41]
+
+The dense population of the Indo-Gangetic Region ensures that much of the land is taken up sprawling urban areas and intensive agriculture. The region is climatically diverse, featuring desert, semi-arid areas, coastal areas and the central plain. Multiple forest ecosystems are found here, including tropical wet, tropical moist deciduous forests, tropical semi-evergreen, dry deciduous, and tropical thorn forests in the northern Deccan, Gangetic plains, and in semi-arid regions.[41][29]
+
+The vast majority of the people are speakers of Hindi languages. Some 90 scheduled tribes are found in these 13 states, including the Bhil and Gond peoples, the two largest Adivasi groups in India, together making up 70% of all members of scheduled tribes. Other tribes surveyed for medicinal plants include the Baiga, Bharia, Halba, Kaul, Korku, Maria, and Sahariya peoples.[42]
+
+Around half of the flowering plants of India are found in these states (11,000-12,000 species).[41] A 2017 survey identified 528 plant species used for medicine in this region.[43] Another study records 610 species used by the tribal people of Rajasthan alone, though this includes food and shelter plants.[44][43]
+
+The 528 medicinal plants used in this region belong to 112 families, the most important being the legume (74 species), mallow (30 species), Asteraceae (29 species), mint (24 species), and dogbane (21 species) families.[43]
+
+Leaves are the plant part most frequently utilized. Azadirachta indica is a frequently cited species in ethnobotanical surveys, and used for the most diverse array of treatments. Local uses include treatment for snake bite, scorpion stings, skin disease, wounds, malaria, eczema, diabetes, even leprosy and tuberculosis.[43]
+
+The Andaman and Nicboar Islands are a union territory located southeast of continental India, consisting of two island chains. These islands have a tropical wet/monsoon climate with tropical rainforest vegetation. The more northerly Andaman Islands have some mixed deciduous forest, with a landscape of steep hills and valleys. Though dominated by a unique rainforest ecosystem, some Nicobar Islands are predominantly grassland and mangrove forests are found throughout coastal areas of both island chains.[45][29] The islands are home to at least 2650 species of vascular plants and 150 plant families, with around 300 endemic species.[35]
+
+The indigenous inhabitants of the Andaman islands, the Andamanese, number in total less than 500 people. Surviving tribes include the Great Andamanese, the Jarawa, the Onge, and the Sentinelese. The majority of the population is now constituted of people from the Indian mainland (Tamil, Telugu, Oriya, Malayali, North Indian) as well as Bengali and Malayali peoples. Some 2000 Karen people inhabit the city of Mayabunder in Middle Andaman island.
+
+The Nicobarese consist of some 22,000 people who share ancestry with Southeast Asians. On the island of Great Nicobar, the Nichobarese share the island with the Shompen people, a semi-nomadic tribe of hunter-gatherers confined to the island interior. About 200 Shompen people have been documented.
+
+A 2009 study documented 289 plant species used for medicinal purposes by the indigenous peoples of both the Andaman and Nicobar Islands.[45][46] Another study found 150 plant species used for 47 unique treatments by the people of Car Nicobar, the northernmost Nicobar island.[45][47]
+
+The indigenous Andamanese have lived a mixed agricultural/hunter-gatherer lifestyle for tens of thousands of years. Food crops consist of rice, coconuts, area, fruit, palm oil and cashews. Turmeric is an important spice used both in medicine and in cooking. The Great Andamanese chew and spray leaves of Polyalthia jenkinsii in order to deter bee attacks during honey gathering.[45]
+
+Alstonia macrophylla is the plant most widely cited from ethnobotanical studies of both island chains.The bark, root, and leaves of this tree are used in the treatment of fever, gastric disorders, swelling, bone fractures, urinary tract infections, and skin diseases. Ocimum sanctum (Holy Basil) is documented as a plant used for cough and cold treatment. The ginger plant Zingiber squarrosum has petioles that are chewed to relieve thirst.[45]
+
+
+
